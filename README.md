@@ -4,3 +4,4 @@
 * 如何看懂艺术
 * The book of why
 * 数据密集型应用系统设计
+* Python for Data Analysis
