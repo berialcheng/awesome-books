@@ -9,6 +9,6 @@
 
 # 动物系列
 * 数据密集型应用系统设计
-* 流式系统设计
+* 流式系统
 * Python for Data Analysis
 * SRE Google 运维解密
