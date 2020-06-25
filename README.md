@@ -12,3 +12,6 @@
 * 流式系统
 * Python for Data Analysis
 * SRE Google 运维解密
+* 利用python进行数据分析
+* Spark快速大数据分析
+* Spark高级数据分析
