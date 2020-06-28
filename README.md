@@ -15,5 +15,4 @@
 * Spark快速大数据分析
 * Spark高级数据分析
 
-# Reason
 * The book of why
