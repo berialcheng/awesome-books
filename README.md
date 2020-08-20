@@ -56,6 +56,7 @@
 * 利用python进行数据分析
 * Spark快速大数据分析
 * Spark高级数据分析
+* 微服务架构设计模式
 
 # 基础科学
 * The book of why
