@@ -4,14 +4,12 @@
 * [9.2][杀死一只知更鸟](https://book.douban.com/subject/6781808/)
 
 # 心理
-* 了不起的我
-* 不确定状况下的判断 : 启发式和偏差
+* [8.8][不起的我 : 自我发展的心理学](https://book.douban.com/subject/34836531/)
+* [8.3][不确定状况下的判断:启发式和偏差](https://book.douban.com/subject/3248694/)
 * 事实
-* 路西法效应
-* 自私的基因
-* 李普曼《舆论》
-* 人间失格
-* 思考，快与慢
+* [8.5][路西法效应](https://book.douban.com/subject/4071842/）
+* [9.3][李普曼《舆论》](https://book.douban.com/subject/27662713/)
+* [8.1][思考，快与慢](https://book.douban.com/subject/10785583/)
 
 # 社科
 * 从一到无穷大
@@ -33,6 +31,7 @@
 # 哲学
 * 有限与无限的游戏: 一个哲学家眼中的竞技世界
 * The book of why
+* [8.5][自私的基因](https://book.douban.com/subject/11445548/)
 
 # 经济
 * 就业、利息和货币通论
