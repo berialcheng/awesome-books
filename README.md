@@ -22,7 +22,7 @@
 * [8.5][娱乐至死](https://book.douban.com/subject/1062193/)
 * [8.2][乌合之众](https://book.douban.com/subject/1012611/)
 * [7.9][黑天鹅:如何应对不可预知的未来](https://book.douban.com/subject/6854525/)
-* [9.0]平凡的世界
+* [9.0][平凡的世界](https://book.douban.com/subject/10517238/)
 * [9.4]世界的苦难 : 布尔迪厄的社会调查
 
 # 物理
