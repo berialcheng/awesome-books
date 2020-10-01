@@ -35,11 +35,11 @@
 
 # 经济
 * [8.7][就业、利息和货币通论](https://book.douban.com/subject/1137246/)
-* 解读中国经济
+* [8.8][解读中国经济](https://book.douban.com/subject/11626951/)
 * [9.4][大衰退年代：宏观经济学的另一半与全球化的宿命](https://book.douban.com/subject/33451663/)
-* 货币、银行信贷与经济周期
+* [8.3][货币、银行信贷与经济周期](https://book.douban.com/subject/10765392/)
 * [8.1][房地产周期](https://book.douban.com/subject/27142454/)
-* [9.1][信用创造，货币供求与经济结构]
+* [9.1][信用创造，货币供求与经济结构](https://book.douban.com/subject/26314075/)
 
 # 投资
 * [8.9][日本蜡烛图技术：古老东方投资术的现代指南](https://book.douban.com/subject/34948750/)
