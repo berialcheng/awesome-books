@@ -29,7 +29,7 @@
 * 上帝掷骰子吗：量子物理史话
 
 # 哲学
-* 有限与无限的游戏: 一个哲学家眼中的竞技世界
+* [8.5][有限与无限的游戏: 一个哲学家眼中的竞技世界](https://book.douban.com/subject/25742296/)
 * The book of why
 * [8.5][自私的基因](https://book.douban.com/subject/11445548/)
 
