@@ -46,7 +46,7 @@
 * [8.7][投资最重要的事](https://book.douban.com/subject/10799082/)
 * [8.9][一本书看懂财报](https://book.douban.com/subject/25926542/)
 * [9.2][巴芒演义：可复制的价值投资](https://book.douban.com/subject/34997313/)
-* [8.7][《小狗钱钱: 引导孩子正确认识财富、创造财富的“金钱童话"》[德] 博多·舍费尔](https://book.douban.com/subject/3576486/)
+* [9.1][《小狗钱钱: 引导孩子正确认识财富、创造财富的“金钱童话"》[德] 博多·舍费尔](https://book.douban.com/subject/3576486/)
 * [8.7][穷查理宝典]
 * [8.8][股市进阶之道](https://book.douban.com/subject/25829645/)
 
