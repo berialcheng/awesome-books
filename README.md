@@ -58,8 +58,8 @@
 * 别独自用餐
 * 认识自己，接纳自己
 * [8.4][如何赢得朋友并影响他人](https://book.douban.com/subject/1969064/）
-* 如何阅读一本书
-* 如何成为一个有趣的人
+* [8.4][如何阅读一本书](https://book.douban.com/subject/1013208/)
+* [6.8][如何成为一个有趣的人](https://book.douban.com/subject/27055728/)
 * 影响力
 * 如何看懂艺术
 * 学会提问
@@ -72,6 +72,8 @@
 * 态度
 * 见识
 * [8.3][原则](https://book.douban.com/subject/27608239/)
+* [7.3][富人思维](https://book.douban.com/subject/30407984/)
+* OKR工作法
 
 # 软件工程
 * 数据密集型应用系统设计
@@ -86,3 +88,7 @@
 * 增长黑客
 * 设计
 * 人生的智慧
+* [8.3][幕后产品:打造突破式产品思维](https://book.douban.com/subject/33396395/)
+* [7.3][腾讯产品法](https://book.douban.com/subject/27205096/)
+* [7.3][富人思维](https://book.douban.com/subject/30407984/)
+* 
