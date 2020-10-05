@@ -40,6 +40,7 @@
 * [8.3] [货币、银行信贷与经济周期](https://book.douban.com/subject/10765392/)
 * [8.1] [房地产周期](https://book.douban.com/subject/27142454/)
 * [9.1] [信用创造，货币供求与经济结构](https://book.douban.com/subject/26314075/)
+* [7.7] [长尾理论 : 为什么商业的未来是小众市场](https://book.douban.com/subject/26584041/)
 
 # 投资
 * [8.9] [日本蜡烛图技术：古老东方投资术的现代指南](https://book.douban.com/subject/34948750/)
@@ -53,7 +54,7 @@
 
 # 个人管理
 * 高效能人士的七个习惯
-* 刻意练习
+* [7.9] [刻意练习](https://book.douban.com/subject/26895993/)
 * 个人形成论
 * 别独自用餐
 * 认识自己，接纳自己
@@ -62,10 +63,10 @@
 * [6.8] [如何成为一个有趣的人](https://book.douban.com/subject/27055728/)
 * 影响力
 * 如何看懂艺术
-* 学会提问
+* [8.3] [学会提问](https://book.douban.com/subject/20428922/)
 * 少有人走的路
 * 被讨厌的勇气
-* 非暴力沟通
+* [8.4] [非暴力沟通](https://book.douban.com/subject/3533221/)
 * 卓有成效的管理者
 * 当下的力量
 * 财富自由之路 李笑来
