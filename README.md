@@ -48,20 +48,21 @@
 * [8.9] [一本书看懂财报](https://book.douban.com/subject/25926542/)
 * [9.2] [巴芒演义：可复制的价值投资](https://book.douban.com/subject/34997313/)
 * [9.1] [《小狗钱钱: 引导孩子正确认识财富、创造财富的“金钱童话"》[德] 博多·舍费尔](https://book.douban.com/subject/3576486/)
-* [8.7] [穷查理宝典]
+* [8.7] [穷查理宝典:查理·芒格的智慧箴言录](https://book.douban.com/subject/5346110/)
 * [8.8] [股市进阶之道](https://book.douban.com/subject/25829645/)
+* [7.3] [富人思维](https://book.douban.com/subject/30407984/)
 
 
 # 个人管理
-* 高效能人士的七个习惯
+* [8.2] [高效能人士的七个习惯](https://book.douban.com/subject/1048007/)
 * [7.9] [刻意练习](https://book.douban.com/subject/26895993/)
 * 个人形成论
-* 别独自用餐
-* 认识自己，接纳自己
+* [7.9] [别独自用餐](https://book.douban.com/subject/5344908/)
+* [7.5] [认识自己，接纳自己](https://book.douban.com/subject/5291811/)
 * [8.4] [如何赢得朋友并影响他人](https://book.douban.com/subject/1969064/)
 * [8.4] [如何阅读一本书](https://book.douban.com/subject/1013208/)
 * [6.8] [如何成为一个有趣的人](https://book.douban.com/subject/27055728/)
-* 影响力
+* [8.6] [影响力](https://book.douban.com/subject/1786387/)
 * 如何看懂艺术
 * [8.3] [学会提问](https://book.douban.com/subject/20428922/)
 * 少有人走的路
@@ -84,11 +85,11 @@
 * 利用python进行数据分析
 * Spark快速大数据分析
 * Spark高级数据分析
-* 微服务架构设计模式
+* [9.1] [微服务架构设计模式](https://book.douban.com/subject/33425123/)
 * 给产品经理讲技术
 * 增长黑客
 * 设计
 * 人生的智慧
 * [8.3] [幕后产品:打造突破式产品思维](https://book.douban.com/subject/33396395/)
 * [7.3] [腾讯产品法](https://book.douban.com/subject/27205096/)
-* [7.3] [富人思维](https://book.douban.com/subject/30407984/)
+* 
