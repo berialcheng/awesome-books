@@ -56,32 +56,32 @@
 # 个人管理
 * [8.2] [高效能人士的七个习惯](https://book.douban.com/subject/1048007/)
 * [7.9] [刻意练习](https://book.douban.com/subject/26895993/)
-* 个人形成论
+* [9.1] [个人形成论](https://book.douban.com/subject/1218321/)
 * [7.9] [别独自用餐](https://book.douban.com/subject/5344908/)
 * [7.5] [认识自己，接纳自己](https://book.douban.com/subject/5291811/)
 * [8.4] [如何赢得朋友并影响他人](https://book.douban.com/subject/1969064/)
 * [8.4] [如何阅读一本书](https://book.douban.com/subject/1013208/)
 * [6.8] [如何成为一个有趣的人](https://book.douban.com/subject/27055728/)
 * [8.6] [影响力](https://book.douban.com/subject/1786387/)
-* 如何看懂艺术
+* [8.3] [如何看懂艺术](https://book.douban.com/subject/30170099/)
 * [8.3] [学会提问](https://book.douban.com/subject/20428922/)
-* 少有人走的路
-* 被讨厌的勇气
+* [8.4] [少有人走的路:心智成熟的旅程](https://book.douban.com/subject/1775691/)
+* [8.6] [被讨厌的勇气](https://book.douban.com/subject/26369699/)
 * [8.4] [非暴力沟通](https://book.douban.com/subject/3533221/)
-* 卓有成效的管理者
-* 当下的力量
-* 财富自由之路 李笑来
+* [8.7] [卓有成效的管理](https://book.douban.com/subject/1322025/)
+* [8.4] [当下的力量](https://book.douban.com/subject/2277299/)
+* [8.7] [财富自由之路 李笑来](https://book.douban.com/subject/27094706/)
 * 态度
 * 见识
 * [8.3] [原则](https://book.douban.com/subject/27608239/)
 * [7.3] [富人思维](https://book.douban.com/subject/30407984/)
-* OKR工作法
+* [7.5] [OKR工作法](https://book.douban.com/subject/27132072/)
 
 # 软件工程
 * 数据密集型应用系统设计
 * 流式系统
 * Python for Data Analysis
-* SRE Google 运维解密
+* [8.9] [SRE Google 运维解密](https://book.douban.com/subject/26875239/)
 * 利用python进行数据分析
 * Spark快速大数据分析
 * Spark高级数据分析
