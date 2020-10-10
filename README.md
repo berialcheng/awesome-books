@@ -25,6 +25,7 @@
 * [7.9] [黑天鹅:如何应对不可预知的未来](https://book.douban.com/subject/6854525/)
 * [9.0] [平凡的世界](https://book.douban.com/subject/10517238/)
 * [9.4] [世界的苦难 : 布尔迪厄的社会调查](https://book.douban.com/subject/26943381/)
+* [9.3] [舆论](https://book.douban.com/subject/27662713/)
 
 # 物理
 * 上帝掷骰子吗：量子物理史话
@@ -34,7 +35,7 @@
 
 # 哲学
 * [8.5] [有限与无限的游戏: 一个哲学家眼中的竞技世界](https://book.douban.com/subject/25742296/)
-* The book of why
+* [8.7] [为什么:关于因果关系的新科学](https://book.douban.com/subject/33438811/)
 * [8.5] [自私的基因](https://book.douban.com/subject/11445548/)
 
 # 经济
@@ -88,11 +89,14 @@
 * [8.9] [SRE Google 运维解密](https://book.douban.com/subject/26875239/)
 * [9.1] [微服务架构设计模式](https://book.douban.com/subject/33425123/)
 * 给产品经理讲技术
-* 利用python进行数据分析
+* [8.6] [利用python进行数据分析](https://book.douban.com/subject/25779298/)
 * Spark快速大数据分析
 * Spark高级数据分析
 * Developer Hegemony
 * [9.1] [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://book.douban.com/subject/26997855/)
+* [8.2] [自己动手写Java虚拟机](https://book.douban.com/subject/26802084/)
+* [8.4] [深入剖析Tomcat](深入剖析Tomcat)
+* [9.1] [Spring揭秘](https://book.douban.com/subject/26802084/)
 
 # 产品
 * [8.3] [幕后产品:打造突破式产品思维](https://book.douban.com/subject/33396395/)
