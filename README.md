@@ -96,7 +96,6 @@
 * [9.1] [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://book.douban.com/subject/26997855/)
 * [8.2] [自己动手写Java虚拟机](https://book.douban.com/subject/26802084/)
 * [8.4] [深入剖析Tomcat](深入剖析Tomcat)
-* [9.1] [Spring揭秘](https://book.douban.com/subject/26802084/)
 
 # 产品
 * [8.3] [幕后产品:打造突破式产品思维](https://book.douban.com/subject/33396395/)
