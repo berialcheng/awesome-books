@@ -28,7 +28,7 @@
 * [9.3] [舆论](https://book.douban.com/subject/27662713/)
 
 # 物理
-* 上帝掷骰子吗：量子物理史话
+* [9.2] [上帝掷骰子吗：量子物理史话](https://book.douban.com/subject/1467022/)
 
 # 数据
 * [9.1] [应用随机过程](https://book.douban.com/subject/2309401/)
