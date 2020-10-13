@@ -7,7 +7,7 @@
 # 心理
 * [8.8] [不起的我 : 自我发展的心理学](https://book.douban.com/subject/34836531/)
 * [8.3] [不确定状况下的判断:启发式和偏差](https://book.douban.com/subject/3248694/)
-* 事实
+* [8.0] [事实](https://book.douban.com/subject/33385402/)
 * [8.5] [路西法效应](https://book.douban.com/subject/4071842/)
 * [9.3] [李普曼《舆论》](https://book.douban.com/subject/27662713/)
 * [8.1] [思考，快与慢](https://book.douban.com/subject/10785583/)
