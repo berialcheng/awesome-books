@@ -88,7 +88,6 @@
 * 流式系统
 * [8.9] [SRE Google 运维解密](https://book.douban.com/subject/26875239/)
 * [9.1] [微服务架构设计模式](https://book.douban.com/subject/33425123/)
-* 给产品经理讲技术
 * [8.6] [利用python进行数据分析](https://book.douban.com/subject/25779298/)
 * Spark快速大数据分析
 * Spark高级数据分析
