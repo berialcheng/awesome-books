@@ -90,7 +90,6 @@
 * [9.1] [微服务架构设计模式](https://book.douban.com/subject/33425123/)
 * [8.6] [利用python进行数据分析](https://book.douban.com/subject/25779298/)
 * Spark快速大数据分析
-* Spark高级数据分析
 * Developer Hegemony
 * [9.1] [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://book.douban.com/subject/26997855/)
 * [8.2] [自己动手写Java虚拟机](https://book.douban.com/subject/26802084/)
