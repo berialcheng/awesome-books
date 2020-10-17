@@ -99,6 +99,7 @@
 # 产品
 * [8.3] [幕后产品:打造突破式产品思维](https://book.douban.com/subject/33396395/)
 * [7.3] [腾讯产品法](https://book.douban.com/subject/27205096/)
+* [8.5] [启示录](https://book.douban.com/subject/5914587/)
 * [8.3] [增长黑客](https://book.douban.com/subject/27593848/)
 * [8.3] [精益创业](https://book.douban.com/subject/10945606/)
 * [8.4] [商业模式新生代](https://book.douban.com/subject/6718487/)
