@@ -46,6 +46,7 @@
 * [8.1] [房地产周期](https://book.douban.com/subject/27142454/)
 * [9.1] [信用创造，货币供求与经济结构](https://book.douban.com/subject/26314075/)
 * [7.7] [长尾理论 : 为什么商业的未来是小众市场](https://book.douban.com/subject/26584041/)
+* [8.3] [逃不开的经济周期](https://book.douban.com/subject/3265599/)
 
 # 投资
 * [8.9] [日本蜡烛图技术：古老东方投资术的现代指南](https://book.douban.com/subject/34948750/)
