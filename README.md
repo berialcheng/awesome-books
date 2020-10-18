@@ -57,6 +57,7 @@
 * [8.7] [穷查理宝典:查理·芒格的智慧箴言录](https://book.douban.com/subject/5346110/)
 * [8.8] [股市进阶之道](https://book.douban.com/subject/25829645/)
 * [7.3] [富人思维](https://book.douban.com/subject/30407984/)
+* [8.1] [门口的野蛮人](https://book.douban.com/subject/4953707/)
 
 
 # 个人管理
