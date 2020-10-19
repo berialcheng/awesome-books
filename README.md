@@ -26,6 +26,7 @@
 * [9.0] [平凡的世界](https://book.douban.com/subject/10517238/)
 * [9.4] [世界的苦难 : 布尔迪厄的社会调查](https://book.douban.com/subject/26943381/)
 * [9.3] [舆论](https://book.douban.com/subject/27662713/)
+* [8.5] [how to:如何不切实际地解决实际问题](https://book.douban.com/subject/35048568/)
 
 # 物理
 * [9.2] [上帝掷骰子吗：量子物理史话](https://book.douban.com/subject/1467022/)
