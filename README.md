@@ -85,6 +85,7 @@
 * [8.6] [街头生意经](https://book.douban.com/subject/4225644/)
 * [8.7] [黑客与画家](https://book.douban.com/subject/6021440/)
 * [9.2] [人生的智慧](https://book.douban.com/subject/3261600/)
+* [8.4] [重来3：跳出疯狂的忙碌](https://book.douban.com/subject/35135787/)
 
 # 软件工程
 * [9.7] [数据密集型应用系统设计](https://book.douban.com/subject/30329536/)
