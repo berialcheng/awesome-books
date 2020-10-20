@@ -60,6 +60,7 @@
 * [7.3] [富人思维](https://book.douban.com/subject/30407984/)
 * [8.1] [门口的野蛮人](https://book.douban.com/subject/4953707/)
 * [8.9] [对冲基金奇才](https://book.douban.com/subject/24153567/)
+* [7.3] [解读量化投资](https://book.douban.com/subject/4149140/)
 
 # 个人管理
 * [8.2] [高效能人士的七个习惯](https://book.douban.com/subject/1048007/)
