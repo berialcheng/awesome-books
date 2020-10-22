@@ -109,3 +109,4 @@
 * [8.3] [精益创业](https://book.douban.com/subject/10945606/)
 * [8.4] [商业模式新生代](https://book.douban.com/subject/6718487/)
 * [8.6] [写给大家看的设计书](https://book.douban.com/subject/3323633/)
+* [8.6] [SaaS创业路线图：to B产品、营销、运营方法论及实战案例解读](https://book.douban.com/subject/35079444/)
