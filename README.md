@@ -27,6 +27,7 @@
 * [9.4] [世界的苦难 : 布尔迪厄的社会调查](https://book.douban.com/subject/26943381/)
 * [9.3] [舆论](https://book.douban.com/subject/27662713/)
 * [8.5] [how to:如何不切实际地解决实际问题](https://book.douban.com/subject/35048568/)
+* [8.2] [我的二本学生](https://book.douban.com/subject/35050614/?icn=index-topchart-subject)
 
 # 物理
 * [9.2] [上帝掷骰子吗：量子物理史话](https://book.douban.com/subject/1467022/)
@@ -88,6 +89,7 @@
 * [8.7] [黑客与画家](https://book.douban.com/subject/6021440/)
 * [9.2] [人生的智慧](https://book.douban.com/subject/3261600/)
 * [8.4] [重来3：跳出疯狂的忙碌](https://book.douban.com/subject/35135787/)
+* [9.5] [现代艺术史（插图第六版）](https://book.douban.com/subject/35125542/)
 
 # 软件工程
 * [9.7] [数据密集型应用系统设计](https://book.douban.com/subject/30329536/)
