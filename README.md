@@ -91,6 +91,7 @@
 * [8.4] [重来3：跳出疯狂的忙碌](https://book.douban.com/subject/35135787/)
 * [9.5] [现代艺术史（插图第六版）](https://book.douban.com/subject/35125542/)
 * [8.5] [谈话的力量](https://book.douban.com/subject/1183730/)
+* [8.6] [非线性成长](https://book.douban.com/subject/35218970/)
 
 # 软件工程
 * [9.7] [数据密集型应用系统设计](https://book.douban.com/subject/30329536/)
