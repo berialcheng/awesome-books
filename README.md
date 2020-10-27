@@ -103,6 +103,7 @@
 * Spark快速大数据分析
 * Developer Hegemony
 * [9.1] [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://book.douban.com/subject/26997855/)
+* [9.6] [Structure and Interpretation of Computer Programs - 2nd Edition](https://book.douban.com/subject/1451622/)
 * [8.2] [自己动手写Java虚拟机](https://book.douban.com/subject/26802084/)
 * [8.4] [深入剖析Tomcat](深入剖析Tomcat)
 
