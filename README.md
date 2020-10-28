@@ -93,6 +93,7 @@
 * [8.5] [谈话的力量](https://book.douban.com/subject/1183730/)
 * [8.6] [非线性成长](https://book.douban.com/subject/35218970/)
 * [8.2] [关键对话 : 如何高效能沟通](https://book.douban.com/subject/10586741/)
+* [8.8] [The Hard Thing About Hard Things](https://book.douban.com/subject/25823036/)
 
 # 软件工程
 * [9.7] [数据密集型应用系统设计](https://book.douban.com/subject/30329536/)
