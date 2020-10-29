@@ -34,6 +34,7 @@
 
 # 数据
 * [9.1] [应用随机过程](https://book.douban.com/subject/2309401/)
+* [9.5] [数学之美](https://book.douban.com/subject/35033507/)
 
 # 哲学
 * [8.5] [有限与无限的游戏: 一个哲学家眼中的竞技世界](https://book.douban.com/subject/25742296/)
