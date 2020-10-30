@@ -64,6 +64,7 @@
 * [8.9] [对冲基金奇才](https://book.douban.com/subject/24153567/)
 * [7.3] [解读量化投资](https://book.douban.com/subject/4149140/)
 * [7.9] [Quantitative Trading:How To Build Your Own Algorithmic Trading Business](https://book.douban.com/subject/3361807/)
+* [8.3] [富爸爸，穷爸爸](https://book.douban.com/subject/1033778/)
 
 # 个人管理
 * [8.2] [高效能人士的七个习惯](https://book.douban.com/subject/1048007/)
