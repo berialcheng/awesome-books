@@ -66,6 +66,7 @@
 * [7.9] [Quantitative Trading:How To Build Your Own Algorithmic Trading Business](https://book.douban.com/subject/3361807/)
 * [8.3] [富爸爸，穷爸爸](https://book.douban.com/subject/1033778/)
 * [9.2] [一本书看透股权架构](https://book.douban.com/subject/33413106/)
+* [8.8] [用生活常识就能看懂财务报表](https://book.douban.com/subject/26996646/)
 
 # 个人管理
 * [8.2] [高效能人士的七个习惯](https://book.douban.com/subject/1048007/)
