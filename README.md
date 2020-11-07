@@ -3,6 +3,7 @@
 # 文学
 * [9.2] [杀死一只知更鸟](https://book.douban.com/subject/6781808/)
 * [9.2] [动物农场](https://book.douban.com/subject/2035179/)
+* [9.1] [白夜行](https://book.douban.com/subject/10554308/)
 
 # 心理
 * [8.8] [不起的我 : 自我发展的心理学](https://book.douban.com/subject/34836531/)
