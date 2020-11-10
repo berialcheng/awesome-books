@@ -102,6 +102,7 @@
 * [8.2] [关键对话 : 如何高效能沟通](https://book.douban.com/subject/10586741/)
 * [8.8] [The Hard Thing About Hard Things](https://book.douban.com/subject/25823036/)
 * [9.3] [营销管理](https://book.douban.com/subject/26879263/)
+* [8.5] [自驱型成长：如何科学有效培养孩子的自律](https://book.douban.com/subject/35048510/)
 
 # 软件工程
 * [9.7] [数据密集型应用系统设计](https://book.douban.com/subject/30329536/)
