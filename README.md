@@ -31,6 +31,10 @@
 * [8.5] [how to:如何不切实际地解决实际问题](https://book.douban.com/subject/35048568/)
 * [8.2] [我的二本学生](https://book.douban.com/subject/35050614/?icn=index-topchart-subject)
 
+# 政治
+* [9.2] [政治学通识](https://book.douban.com/subject/26658395/)
+* [8.9] [当代中国政府与政治](https://book.douban.com/subject/26665157/)
+
 # 物理
 * [9.2] [上帝掷骰子吗：量子物理史话](https://book.douban.com/subject/1467022/)
 
