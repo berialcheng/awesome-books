@@ -124,7 +124,7 @@
 * [8.4] [深入剖析Tomcat](深入剖析Tomcat)
 * [9.3] [Kubernetes in Action](https://book.douban.com/subject/26997846/)
 * [9.4] [算法](https://book.douban.com/subject/19952400/)
-* [8.4] [算法图解](https://book.douban.com/subject/26979890/)]
+* [8.4] [算法图解](https://book.douban.com/subject/26979890/)
 * [9.5] [重构](https://book.douban.com/subject/30468597/)
 
 # 产品
