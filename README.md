@@ -130,6 +130,7 @@
 * [9.4] [算法](https://book.douban.com/subject/19952400/)
 * [8.4] [算法图解](https://book.douban.com/subject/26979890/)
 * [9.5] [重构](https://book.douban.com/subject/30468597/)
+* [9.7] [Scikit-Learn与TensorFlow机器学习实用指南（影印版）](https://www.douban.com/doulist/116333232/?start=25&sort=seq&playable=0&sub_type=)
 
 # 产品
 * [8.3] [幕后产品:打造突破式产品思维](https://book.douban.com/subject/33396395/)
