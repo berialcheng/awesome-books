@@ -42,6 +42,8 @@
 * [9.1] [应用随机过程](https://book.douban.com/subject/2309401/)
 * [9.5] [数学之美](https://book.douban.com/subject/35033507/)
 * [9.2] [统计学](https://book.douban.com/subject/1588297/)
+* [9.6] [An Introduction to Statistical Learning](https://book.douban.com/subject/21706191/)
+* [9.5] [The Elements of Statistical Learning](https://book.douban.com/subject/3294335/)
 
 # 哲学
 * [8.5] [有限与无限的游戏: 一个哲学家眼中的竞技世界](https://book.douban.com/subject/25742296/)
@@ -123,6 +125,7 @@
 * [9.6] [Structure and Interpretation of Computer Programs - 2nd Edition](https://book.douban.com/subject/1451622/)
 * [8.2] [自己动手写Java虚拟机](https://book.douban.com/subject/26802084/)
 * [8.4] [深入剖析Tomcat](深入剖析Tomcat)
+* [9.1] [Spring揭秘](https://book.douban.com/subject/3897837/)
 * [9.3] [Kubernetes in Action](https://book.douban.com/subject/26997846/)
 * [9.4] [算法](https://book.douban.com/subject/19952400/)
 * [8.4] [算法图解](https://book.douban.com/subject/26979890/)
