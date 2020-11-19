@@ -60,6 +60,7 @@
 * [7.7] [长尾理论 : 为什么商业的未来是小众市场](https://book.douban.com/subject/26584041/)
 * [8.3] [逃不开的经济周期](https://book.douban.com/subject/3265599/)
 * 百年中国经济史笔记 : 从晚清到2002
+* [9.2] [结构性改革:中国经济的问题与对策](https://book.douban.com/subject/35147504/)
 
 # 投资
 * [8.9] [日本蜡烛图技术：古老东方投资术的现代指南](https://book.douban.com/subject/34948750/)
