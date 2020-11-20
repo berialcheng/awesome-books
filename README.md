@@ -79,6 +79,7 @@
 * [9.2] [一本书看透股权架构](https://book.douban.com/subject/33413106/)
 * [8.8] [用生活常识就能看懂财务报表](https://book.douban.com/subject/26996646/)
 * [9.4] [股票大作手操盘术](https://book.douban.com/subject/26286602/)
+* [9.0] [公司价值分析](https://book.douban.com/subject/26419787/)
 
 # 个人管理
 * [8.2] [高效能人士的七个习惯](https://book.douban.com/subject/1048007/)
