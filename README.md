@@ -80,6 +80,7 @@
 * [8.8] [用生活常识就能看懂财务报表](https://book.douban.com/subject/26996646/)
 * [9.4] [股票大作手操盘术](https://book.douban.com/subject/26286602/)
 * [9.0] [公司价值分析](https://book.douban.com/subject/26419787/)
+* [8.7] [明明白白看年报](https://book.douban.com/subject/4827216/)
 
 # 个人管理
 * [8.2] [高效能人士的七个习惯](https://book.douban.com/subject/1048007/)
