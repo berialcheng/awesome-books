@@ -8,7 +8,6 @@
 
 # 心理
 * [8.8] [不起的我 : 自我发展的心理学](https://book.douban.com/subject/34836531/)
-* [8.3] [不确定状况下的判断:启发式和偏差](https://book.douban.com/subject/3248694/)
 * [8.0] [事实](https://book.douban.com/subject/33385402/)
 * [8.5] [路西法效应](https://book.douban.com/subject/4071842/)
 * [9.3] [李普曼《舆论》](https://book.douban.com/subject/27662713/)
@@ -44,6 +43,7 @@
 * [9.2] [统计学](https://book.douban.com/subject/1588297/)
 * [9.6] [An Introduction to Statistical Learning](https://book.douban.com/subject/21706191/)
 * [9.5] [The Elements of Statistical Learning](https://book.douban.com/subject/3294335/)
+* [8.3] [不确定状况下的判断:启发式和偏差](https://book.douban.com/subject/3248694/)
 
 # 哲学
 * [8.5] [有限与无限的游戏: 一个哲学家眼中的竞技世界](https://book.douban.com/subject/25742296/)
