@@ -115,6 +115,7 @@
 * [9.3] [营销管理](https://book.douban.com/subject/26879263/)
 * [8.5] [自驱型成长：如何科学有效培养孩子的自律](https://book.douban.com/subject/35048510/)
 * [9.5] [无界成长](https://book.douban.com/subject/35065701/)
+* [9.3] [营销管理](https://book.douban.com/subject/26879263/)
 
 # 软件工程
 * [9.7] [数据密集型应用系统设计](https://book.douban.com/subject/30329536/)
