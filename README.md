@@ -82,6 +82,7 @@
 * [9.0] [公司价值分析](https://book.douban.com/subject/26419787/)
 * [8.7] [明明白白看年报](https://book.douban.com/subject/4827216/)
 * [9.0] [投资者的未来](https://book.douban.com/subject/30313572/)
+* [8.8] [投资银行:估值、杠杆收购、兼并与收购](https://book.douban.com/subject/25987324/)
 
 # 个人管理
 * [8.2] [高效能人士的七个习惯](https://book.douban.com/subject/1048007/)
