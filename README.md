@@ -119,6 +119,7 @@
 * [9.5] [无界成长](https://book.douban.com/subject/35065701/)
 * [9.3] [营销管理](https://book.douban.com/subject/26879263/)
 * [8.8] [信任五环](https://book.douban.com/subject/5500944/)
+* [8.4] [销售就是要搞定人](https://book.douban.com/subject/5399425/)
 
 # 软件工程
 * [9.7] [数据密集型应用系统设计](https://book.douban.com/subject/30329536/)
