@@ -70,7 +70,6 @@
 * [9.1] [《小狗钱钱: 引导孩子正确认识财富、创造财富的“金钱童话"》[德] 博多·舍费尔](https://book.douban.com/subject/3576486/)
 * [8.7] [穷查理宝典:查理·芒格的智慧箴言录](https://book.douban.com/subject/5346110/)
 * [8.8] [股市进阶之道](https://book.douban.com/subject/25829645/)
-* [7.3] [富人思维](https://book.douban.com/subject/30407984/)
 * [8.1] [门口的野蛮人](https://book.douban.com/subject/4953707/)
 * [8.9] [对冲基金奇才](https://book.douban.com/subject/24153567/)
 * [7.3] [解读量化投资](https://book.douban.com/subject/4149140/)
