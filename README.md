@@ -29,6 +29,7 @@
 * [9.3] [舆论](https://book.douban.com/subject/27662713/)
 * [8.5] [how to:如何不切实际地解决实际问题](https://book.douban.com/subject/35048568/)
 * [8.2] [我的二本学生](https://book.douban.com/subject/35050614/?icn=index-topchart-subject)
+* [8.3] [全球科技通史](https://book.douban.com/subject/33385217/)
 
 # 政治
 * [9.2] [政治学通识](https://book.douban.com/subject/26658395/)
