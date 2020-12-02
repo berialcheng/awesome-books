@@ -30,6 +30,7 @@
 * [8.5] [how to:如何不切实际地解决实际问题](https://book.douban.com/subject/35048568/)
 * [8.2] [我的二本学生](https://book.douban.com/subject/35050614/?icn=index-topchart-subject)
 * [8.3] [全球科技通史](https://book.douban.com/subject/33385217/)
+* [8.3] [如何看懂艺术](https://book.douban.com/subject/30170099/)
 
 # 政治
 * [9.2] [政治学通识](https://book.douban.com/subject/26658395/)
@@ -95,7 +96,6 @@
 * [8.4] [如何阅读一本书](https://book.douban.com/subject/1013208/)
 * [6.8] [如何成为一个有趣的人](https://book.douban.com/subject/27055728/)
 * [8.6] [影响力](https://book.douban.com/subject/1786387/)
-* [8.3] [如何看懂艺术](https://book.douban.com/subject/30170099/)
 * [8.3] [学会提问](https://book.douban.com/subject/20428922/)
 * [8.4] [少有人走的路:心智成熟的旅程](https://book.douban.com/subject/1775691/)
 * [8.6] [被讨厌的勇气](https://book.douban.com/subject/26369699/)
