@@ -31,6 +31,7 @@
 * [8.2] [我的二本学生](https://book.douban.com/subject/35050614/?icn=index-topchart-subject)
 * [8.3] [全球科技通史](https://book.douban.com/subject/33385217/)
 * [8.3] [如何看懂艺术](https://book.douban.com/subject/30170099/)
+* [9.3] [末日船票:日常生活中的文化分析](https://book.douban.com/subject/26762887/)
 
 # 政治
 * [9.2] [政治学通识](https://book.douban.com/subject/26658395/)
@@ -121,7 +122,6 @@
 * [9.3] [营销管理](https://book.douban.com/subject/26879263/)
 * [8.8] [信任五环](https://book.douban.com/subject/5500944/)
 * [8.4] [销售就是要搞定人](https://book.douban.com/subject/5399425/)
-* [9.3] [末日船票:日常生活中的文化分析](https://book.douban.com/subject/26762887/)
 
 # 软件工程
 * [9.7] [数据密集型应用系统设计](https://book.douban.com/subject/30329536/)
