@@ -62,7 +62,7 @@
 * [9.1] [信用创造，货币供求与经济结构](https://book.douban.com/subject/26314075/)
 * [7.7] [长尾理论 : 为什么商业的未来是小众市场](https://book.douban.com/subject/26584041/)
 * [8.3] [逃不开的经济周期](https://book.douban.com/subject/3265599/)
-* 百年中国经济史笔记 : 从晚清到2002
+* [9.1] [百年中国经济史笔记 : 从晚清到2002](https://book.douban.com/subject/3224929/)
 * [9.2] [结构性改革:中国经济的问题与对策](https://book.douban.com/subject/35147504/)
 * [8.8] [红色资本:中国的非凡崛起与脆弱的金融基础](https://book.douban.com/subject/25717107/)
 
