@@ -146,6 +146,7 @@
 * [] [Distributed Systems: An Algorithmic Approach, Second Edition](https://book.douban.com/subject/26039302/)
 * [8.6] [A Philosophy of Software Design](https://book.douban.com/subject/30218046/)
 * [] [Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers](https://book.douban.com/subject/3752446/)
+* [8.9] [Trustworthy Online Controlled Experiments](https://book.douban.com/subject/34878475/)
 
 # 产品
 * [8.3] [幕后产品:打造突破式产品思维](https://book.douban.com/subject/33396395/)
