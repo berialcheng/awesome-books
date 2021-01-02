@@ -88,6 +88,7 @@
 * [9.0] [投资者的未来](https://book.douban.com/subject/30313572/)
 * [8.8] [投资银行:估值、杠杆收购、兼并与收购](https://book.douban.com/subject/25987324/)
 * [9.1] [货币数量、利率调控与政策转型](https://book.douban.com/subject/26756689/)
+* [7.9] [解读基金——我的投资观与实践](https://book.douban.com/subject/30784282/)
 
 # 个人管理
 * [8.2] [高效能人士的七个习惯](https://book.douban.com/subject/1048007/)
