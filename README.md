@@ -66,6 +66,7 @@
 * [9.2] [结构性改革:中国经济的问题与对策](https://book.douban.com/subject/35147504/)
 * [8.8] [红色资本:中国的非凡崛起与脆弱的金融基础](https://book.douban.com/subject/25717107/)
 * [9.1] [货币、权力与人](https://book.douban.com/subject/34807450/)
+* [9.2] [分析与思考](https://book.douban.com/subject/35149551/)
 
 # 投资
 * [8.9] [日本蜡烛图技术：古老东方投资术的现代指南](https://book.douban.com/subject/34948750/)
