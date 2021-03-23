@@ -128,6 +128,7 @@
 
 # 软件工程
 * [9.7] [数据密集型应用系统设计](https://book.douban.com/subject/30329536/)
+* [9.0] [Fundamentals of Software Architecture](https://book.douban.com/subject/34464806/)
 * 流式系统
 * [8.9] [SRE Google 运维解密](https://book.douban.com/subject/26875239/)
 * [9.1] [微服务架构设计模式](https://book.douban.com/subject/33425123/)
